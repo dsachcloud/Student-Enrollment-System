@@ -57,9 +57,6 @@ A comprehensive web application for managing student enrollments, departments, a
 - `/frontend/src/theme`: Material UI theme customization
 - `/backend`: Placeholder for future backend implementation
 
-## Screenshots
-
-*(Add screenshots once the UI is finalized)*
 
 ## Future Enhancements
 
@@ -68,9 +65,6 @@ A comprehensive web application for managing student enrollments, departments, a
 - Add reporting and analytics features
 - Implement real-time notifications
 
-## Contributors
-
-- [Your Name](https://github.com/yourusername)
 
 ## License
 
